@@ -7,3 +7,4 @@ With 4casting-MagPropty, users can calculate the magnetization of FePt across a 
 What sets 4casting-MagPropty apart is its efficiency. By replacing traditional simulations with machine learning, it dramatically reduces computation time from 3 hours per simulation to just 1 second. 
 
 This allows researchers to analyze FePt’s magnetic behavior more effectively, saving significant time and resources. Ideal for both research and development, 4casting-MagPropty offers a simple yet powerful solution for studying the magnetic properties of FePt materials.
+![predict](https://github.com/user-attachments/assets/3792026b-07fc-4bfa-895c-e7a4371ae94a)
