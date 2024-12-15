@@ -1,4 +1,4 @@
-4casting-MagPropty is software designed to help predict the magnetization of materials based on temperature changes. It leverages a machine learning model trained with data from atomic-level simulations conducted in Vampire software, ensuring fast and accurate predictions. 
+4casting-MagPropty is software designed to help predict the magnetization of materials based on temperature changes. It leverages a machine learning model trained with data from atomic-level simulations conducted in Vampire software.
 
 This software focuses on FePt (Iron-Platinum), a material renowned for its exceptional magnetic properties. FePt is widely used in magnetic storage devices, such as hard drives, due to its ability to retain strong magnetic characteristics even at nanoscale sizes and high temperatures. 
 
